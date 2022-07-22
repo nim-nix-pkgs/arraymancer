@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 8f28d5dad2ac428dd60cdf97d23ae168f863eeb4 hugosenari <hugosenari@gmail.com> 1656278265 -0300	clone: from github.com:nim-nix-pkgs/arraymancer.git
+8f28d5dad2ac428dd60cdf97d23ae168f863eeb4 283fa1cf053347aaf2e8ea86dc813014fb6b0aaa hugosenari <hugosenari@gmail.com> 1656302957 -0300	commit: feat(nimpkgs): remove lock
+283fa1cf053347aaf2e8ea86dc813014fb6b0aaa 33fbecbd016f757036a1436bbaa317d768c6d5ec hugosenari <hugosenari@gmail.com> 1656741607 -0300	commit: chore: re index arraymancer
+33fbecbd016f757036a1436bbaa317d768c6d5ec 4cc37b2b159243a3697725ab9f17bb97d1dad01c hugosenari <hugosenari@gmail.com> 1656748422 -0300	commit: feat(nimpkgs): remove lock
+4cc37b2b159243a3697725ab9f17bb97d1dad01c 88a8c4df54fbb2ae691b7efe43ef11993a51226c hugosenari <hugosenari@gmail.com> 1657154605 -0300	commit: feat(nimpkgs): remove lock
+88a8c4df54fbb2ae691b7efe43ef11993a51226c 6bb3b182d7171447158665af157c8a5f94a7a118 hugosenari <hugosenari@gmail.com> 1658014565 -0300	commit: chore: re index arraymancer
+6bb3b182d7171447158665af157c8a5f94a7a118 890fecb1d98f89655ce876846f6cd42ae3b0e190 hugosenari <hugosenari@gmail.com> 1658015168 -0300	commit: chore: re index arraymancer
+890fecb1d98f89655ce876846f6cd42ae3b0e190 e2d14bc9f4751962f0634c5fc7f78257a6fbe509 hugosenari <hugosenari@gmail.com> 1658019846 -0300	commit: feat(nimpkgs): remove lock
+e2d14bc9f4751962f0634c5fc7f78257a6fbe509 3e2ffe6ad9dcf3fa676031ee60a80a885a947fdf hugosenari <hugosenari@gmail.com> 1658033556 -0300	commit: feat(nimpkgs): remove lock
+3e2ffe6ad9dcf3fa676031ee60a80a885a947fdf 8b0ed73a7b3d708be4883d438da06175b5ab14ac hugosenari <hugosenari@gmail.com> 1658208874 -0300	commit: feat(nimpkgs): remove lock

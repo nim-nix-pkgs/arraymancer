@@ -237,25 +237,25 @@
         "nimcuda": "nimcuda",
         "nimlapack": "nimlapack",
         "nixpkgs": "nixpkgs",
-        "src-arraymancer-master": "src-arraymancer-master",
+        "src-arraymancer-v0_7_14": "src-arraymancer-v0_7_14",
         "stb_image": "stb_image",
         "untar": "untar",
         "zip": "zip"
       }
     },
-    "src-arraymancer-master": {
+    "src-arraymancer-v0_7_14": {
       "flake": false,
       "locked": {
-        "lastModified": 1659014476,
-        "narHash": "sha256-fgx9qBgrov73Mualcw8VZl4+HyVZwlV6NjYUlFjQeo4=",
+        "lastModified": 1658756896,
+        "narHash": "sha256-Q+wJmiT5Q/LC/pRhlCi+uqD9sLossNIsNjpSqH3lZk4=",
         "owner": "mratsim",
         "repo": "Arraymancer",
-        "rev": "a7c54767779e4e9a6ff4bd6af2715ad494f8dfca",
+        "rev": "586fc2c59129ee32d0ef98d7775aaeca1c337bbe",
         "type": "github"
       },
       "original": {
         "owner": "mratsim",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.7.14",
         "repo": "Arraymancer",
         "type": "github"
       }
